@@ -1,0 +1,31 @@
+
+.header { background-color: #c05832;}
+
+.header__container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header__logo {
+  color: cornflowerblue;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.navbar__link {
+  color: rgb(57, 74, 104);
+  font-size: 20px;
+  font-weight: 800;
+  text-decoration: none;
+}
